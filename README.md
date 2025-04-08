@@ -39,15 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats & Profile Insights:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" height="160px" />
-</p>
 
-<p align="center">
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=github.com/yourusername" alt="Profile Views" />
-</p>
 
 ---
 
