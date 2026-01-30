@@ -18,27 +18,19 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" /> About Me
 
-```python
-class LaibaTech:
-    def __init__(self):
-        self.username = "Laiba Fatima"
-        self.education = {
-            "university": "University of Faisalabad",
-            "degree": "BS Artificial Intelligence",
-            "semester": "6th (Current)",
-            "additional": "Native Cloud Applied AI @ PIAIC"
-        }
-        self.current_focus = [
-            "Agentic AI Systems 🤖",
-            "Multi-Agent Workflows 🔄", 
-            "LLM Engineering 🧠",
-            "RAG Architectures 📚"
-        ]
-        self.mindset = "Building AI that solves real problems"
-    
-    def get_vision(self):
-        return "Transform research → production-ready AI systems"
-```
+🎓 **Education**
+- **BS Artificial Intelligence** @ University of Faisalabad (6th Semester - Current)
+- **Native Cloud Applied AI Engineering** @ PIAIC
+
+🎯 **Current Focus**
+- Agentic AI Systems 🤖
+- Multi-Agent Workflows 🔄
+- LLM Engineering 🧠
+- RAG Architectures 📚
+
+💡 **Mission:** Building AI that solves real problems
+
+🚀 **Vision:** Transform research → production-ready AI systems
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -198,23 +190,22 @@ class LaibaTech:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" /> What I'm Currently Working On
 
-```yaml
-current_projects:
-  - name: "6th Semester AI Projects"
-    focus: ["Deep Learning", "Computer Vision", "NLP"]
-    
-  - name: "Multi-Agent RAG Systems"
-    stack: ["CrewAI", "LangChain", "Qdrant", "Gemini"]
-    
-  - name: "Production AI Apps"
-    goal: "Building end-to-end deployable solutions"
+### 🚀 Current Projects
 
-learning_next:
-  - Advanced Prompt Engineering Techniques
-  - LLM Fine-tuning & LoRA
-  - MLOps & Model Deployment
-  - Docker & Cloud (AWS/GCP)
-```
+**📚 6th Semester AI Projects**
+- Focus: Deep Learning, Computer Vision, NLP
+
+**🤖 Multi-Agent RAG Systems**
+- Stack: CrewAI, LangChain, Qdrant, Gemini
+
+**🏗️ Production AI Apps**
+- Goal: Building end-to-end deployable solutions
+
+### 📖 Learning Next
+- Advanced Prompt Engineering Techniques
+- LLM Fine-tuning & LoRA
+- MLOps & Model Deployment
+- Docker & Cloud (AWS/GCP)
 
 ---
 
